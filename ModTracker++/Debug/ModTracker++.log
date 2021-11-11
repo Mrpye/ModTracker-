@@ -1,0 +1,140 @@
+﻿  pch.cpp
+  ModTracker++.cpp
+d:\projects\cpp\modtracker\modtracker++\modtracker++\stringhelper.h(21): error C2039: 'transform': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\cctype(33): note: see declaration of 'std'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\stringhelper.h(21): error C3861: 'transform': identifier not found
+d:\projects\cpp\modtracker\modtracker++\modtracker++\stringhelper.h(27): error C2039: 'transform': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\cctype(33): note: see declaration of 'std'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\stringhelper.h(27): error C3861: 'transform': identifier not found
+d:\projects\cpp\modtracker\modtracker++\modtracker++\stringhelper.h(110): warning C4018: '<': signed/unsigned mismatch
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(18): error C2143: syntax error: missing ';' before '*'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(18): error C2238: unexpected token(s) preceding ';'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(22): error C2065: 'Channel': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(22): error C2059: syntax error: '>'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(24): error C2143: syntax error: missing ';' before '*'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(24): error C2238: unexpected token(s) preceding ';'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(38): error C2065: 'tuning': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(38): error C2541: 'delete': cannot delete objects that are not pointers
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(39): error C2065: 'song': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(39): error C2541: 'delete': cannot delete objects that are not pointers
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(108): error C2653: 'System': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(108): error C2061: syntax error: identifier 'StreamReader'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(151): error C2061: syntax error: identifier 'StreamReader'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(190): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(197): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(198): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(200): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(201): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(212): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(215): error C2653: 'System': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(215): error C3861: 'GetFileNameWithoutExtension': identifier not found
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(217): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(219): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(219): error C2660: 'FileSystem::combine': function does not take 1 arguments
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\tangible_filesystem.h(32): note: see declaration of 'FileSystem::combine'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(239): error C2653: 'DateTime': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(239): error C2065: 'Now': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(239): error C2653: 'TimeSpan': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(239): error C2065: 'TicksPerMillisecond': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(250): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(257): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(258): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(260): error C2039: 'song': is not a member of 'MusicModLib'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(14): note: see declaration of 'MusicModLib'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(292): error C2065: 'FileStream': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(292): error C2146: syntax error: missing ';' before identifier 'fs'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(292): error C2065: 'fs': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(292): error C2653: 'File': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(292): error C2653: 'FileMode': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(292): error C2065: 'Open': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(292): error C3861: 'Open': identifier not found
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(293): error C2065: 'BinaryReader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(293): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(293): error C2061: syntax error: identifier 'BinaryReader'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(296): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(297): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(298): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(301): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(302): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(303): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(304): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(305): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(306): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(307): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(308): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(313): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(314): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(318): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(319): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(322): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(333): error C2653: 'Buffer': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(333): error C3861: 'BlockCopy': identifier not found
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(334): error C2653: 'Array': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(334): error C2039: 'any': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\filesystem(30): note: see declaration of 'std'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(334): error C2061: syntax error: identifier 'any'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(336): error C2065: 'e': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(334): error C3861: 'ConvertAll': identifier not found
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(343): error C2653: 'Buffer': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(343): error C3861: 'BlockCopy': identifier not found
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(348): error C2653: 'Buffer': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(348): error C3861: 'BlockCopy': identifier not found
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(354): error C2653: 'Buffer': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(354): error C3861: 'BlockCopy': identifier not found
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(355): error C2653: 'Array': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(355): error C2039: 'any': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\filesystem(30): note: see declaration of 'std'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(355): error C2061: syntax error: identifier 'any'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(358): warning C4003: not enough arguments for function-like macro invocation 'max'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(357): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(357): error C2541: 'delete': cannot delete objects that are not pointers
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(358): error C2065: 'e': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(358): error C2589: '(': illegal token on right side of '::'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(358): error C2062: type 'unknown-type' unexpected
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(358): error C2144: syntax error: 'unknown-type' should be preceded by '('
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(358): error C2059: syntax error: ')'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(355): error C3861: 'ConvertAll': identifier not found
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(373): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(373): error C2541: 'delete': cannot delete objects that are not pointers
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(385): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(385): error C2541: 'delete': cannot delete objects that are not pointers
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(388): error C2440: 'return': cannot convert from 'nullptr' to 'std::vector<float,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=float
+          ]
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(388): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(391): error C2065: 'reader': undeclared identifier
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(391): error C2541: 'delete': cannot delete objects that are not pointers
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(396): error C2653: 'Debug': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(396): error C3861: 'WriteLine': identifier not found
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(397): error C2440: 'return': cannot convert from 'nullptr' to 'std::vector<float,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=float
+          ]
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(397): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(439): error C2819: type 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' does not have an overloaded member 'operator ->'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring(4374): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(439): note: did you intend to use '.' instead?
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(439): error C2232: '->std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::length': left operand has 'class' type, use '.'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(446): error C2819: type 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' does not have an overloaded member 'operator ->'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring(4374): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+  d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(446): note: did you intend to use '.' instead?
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(446): error C2232: '->std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::length': left operand has 'class' type, use '.'
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(482): warning C4018: '>': signed/unsigned mismatch
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(508): error C2653: 'System': is not a class or namespace name
+d:\projects\cpp\modtracker\modtracker++\modtracker++\musicmodlib.h(508): fatal error C1003: error count exceeds 100; stopping compilation
